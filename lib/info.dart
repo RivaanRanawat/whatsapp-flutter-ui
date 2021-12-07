@@ -35,22 +35,22 @@ const info = [
   {
     'name': 'Albert Dera',
     'message': 'Am I fat?',
-    'time': '2:25 pm',
+    'time': '7:25 am',
     'profilePic': 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },{
     'name': 'Joseph',
     'message': 'I am from International Olym...',
-    'time': '1:03 pm',
+    'time': '6:02 am',
     'profilePic': 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },{
     'name': 'Sikandar',
     'message': 'Lets Code!',
-    'time': '12:06 pm',
+    'time': '4:56 am',
     'profilePic': 'https://images.unsplash.com/photo-1619194617062-5a61b9c6a049?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60',
   },{
     'name': 'Ian Dooley',
     'message': 'Images by Unsplash',
-    'time': '10:00 am',
+    'time': '1:00 am',
     'profilePic': 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },
 ];
